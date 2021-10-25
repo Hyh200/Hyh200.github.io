@@ -2,6 +2,7 @@
 table{
 	width: 500px;
 	border: 0px;
+	border-collapse: collapse;
 }
 thead{
 	background: #0af;
@@ -11,4 +12,7 @@ thead{
 }
 .cplor2{
 	background: wheat;
+}
+td{
+	text-align: center;
 }
